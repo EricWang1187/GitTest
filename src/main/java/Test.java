@@ -12,5 +12,6 @@ public class Test {
         System.out.println("five");
         System.out.println("hot-fix out");
         System.out.println("seven");
+        System.out.println("hot-fix eight");
     }
 }
