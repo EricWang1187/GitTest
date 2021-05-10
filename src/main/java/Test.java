@@ -14,5 +14,6 @@ public class Test {
         System.out.println("seven");
         System.out.println("hot-fix eight");
         System.out.println("master-nine");
+        System.out.println("hot-fix 10");
     }
 }
